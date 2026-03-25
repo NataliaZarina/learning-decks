@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Learning Decks</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+            background: #0a0a0a;
+            color: #e0e0e0;
+            min-height: 100vh;
+            padding: 2rem;
+        }
+        .container { max-width: 720px; margin: 0 auto; }
+        h1 {
+            font-size: 1.8rem;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+            color: #fff;
+        }
+        .subtitle {
+            color: #888;
+            margin-bottom: 2.5rem;
+            font-size: 0.95rem;
+        }
+        .deck-list { list-style: none; }
+        .empty-state {
+            text-align: center;
+            padding: 4rem 1rem;
+            color: #555;
+        }
+        .empty-state p { margin-bottom: 0.5rem; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Learning Decks</h1>
+        <p class="subtitle">Constraint-driven learning — why things had to be the way they are</p>
+
+        <ul class="deck-list" id="deck-list"></ul>
+
+        <div class="empty-state" id="empty-state">
+            <p>No decks yet.</p>
+            <p style="font-size: 0.85rem;">Use the <code>/learn</code> skill to create your first one.</p>
+        </div>
+    </div>
+
+    <script>
+        // Deck registry — the deploy script appends entries here
+        const DECKS = [];
+
+        function render() {
+            const list = document.getElementById('deck-list');
+            const empty = document.getElementById('empty-state');
+            if (DECKS.length === 0) { empty.style.display = 'block'; return; }
+            empty.style.display = 'none';
+            DECKS.sort((a, b) => new Date(b.date) - new Date(a.date));
+            DECKS.forEach(d => {
+                const li = document.createElement('li');
+                li.style.cssText = 'border:1px solid #222;border-radius:12px;padding:1.2rem 1.4rem;margin-bottom:1rem;cursor:pointer;transition:border-color 0.2s,background 0.2s';
+                li.onmouseenter = () => { li.style.borderColor='#444'; li.style.background='#111'; };
+                li.onmouseleave = () => { li.style.borderColor='#222'; li.style.background='transparent'; };
+
+                const a = document.createElement('a');
+                a.href = d.path;
+                a.style.cssText = 'text-decoration:none;color:inherit;display:block';
+
+                const title = document.createElement('div');
+                title.style.cssText = 'font-size:1.1rem;font-weight:500;color:#fff;margin-bottom:0.3rem';
+                title.textContent = d.title;
+
+                const meta = document.createElement('div');
+                meta.style.cssText = 'font-size:0.82rem;color:#666';
+                meta.textContent = d.sections + ' sections · ' + d.date;
+
+                const tags = document.createElement('div');
+                (d.tags || []).forEach(t => {
+                    const span = document.createElement('span');
+                    span.textContent = t;
+                    span.style.cssText = 'display:inline-block;background:#1a1a2e;color:#7c8cf5;font-size:0.72rem;padding:0.15rem 0.5rem;border-radius:4px;margin-right:0.4rem;margin-top:0.4rem';
+                    tags.appendChild(span);
+                });
+
+                a.appendChild(title);
+                a.appendChild(meta);
+                a.appendChild(tags);
+                li.appendChild(a);
+                list.appendChild(li);
+            });
+        }
+        render();
+    </script>
+</body>
+</html>
