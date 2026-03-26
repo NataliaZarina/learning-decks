@@ -19,6 +19,13 @@
           "detail": "They write a colleganza — one of the earliest surviving commercial partnership agreements in human history."
         },
         {
+          "type": "image",
+          "title": "Venice — Where It All Started",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Giovanni_Antonio_Canal%2C_il_Canaletto_-_The_Riva_degli_Schiavoni_-_WGA03889.jpg",
+          "alt": "Canaletto painting of Venice's Riva degli Schiavoni waterfront with merchant ships",
+          "caption": "Canaletto's 'Riva degli Schiavoni' — Venice's main waterfront, where colleganza partnerships launched the voyages that created the first compensation contracts."
+        },
+        {
           "type": "html",
           "html_content": "<h3 style='font-size:1.1em;margin-bottom:1em'>The Colleganza: Two Forms</h3><div style='display:flex;gap:1.5em'><div style='flex:1;background:rgba(124,140,245,0.1);padding:1.2em;border-radius:12px;border:1px solid rgba(124,140,245,0.3)'><div style='color:#7c8cf5;font-size:0.7em;text-transform:uppercase;letter-spacing:0.1em;margin-bottom:0.8em'>Form 1: Investor funds everything</div><svg viewBox='0 0 300 180' style='width:100%'><rect x='10' y='10' width='200' height='50' rx='8' fill='rgba(255,107,107,0.2)' stroke='#ff6b6b' stroke-width='1.5'/><text x='110' y='40' text-anchor='middle' fill='#ff6b6b' font-size='14' font-family='system-ui'>INVESTOR — 75%</text><rect x='10' y='80' width='65' height='50' rx='8' fill='rgba(76,175,80,0.2)' stroke='#4caf50' stroke-width='1.5'/><text x='42' y='110' text-anchor='middle' fill='#4caf50' font-size='14' font-family='system-ui'>LABOR — 25%</text><text x='10' y='160' fill='#8b949e' font-size='11' font-family='system-ui'>Investor bears 100% of losses</text></svg></div><div style='flex:1;background:rgba(124,140,245,0.1);padding:1.2em;border-radius:12px;border:1px solid rgba(124,140,245,0.3)'><div style='color:#7c8cf5;font-size:0.7em;text-transform:uppercase;letter-spacing:0.1em;margin-bottom:0.8em'>Form 2: Both contribute capital</div><svg viewBox='0 0 300 180' style='width:100%'><rect x='10' y='10' width='135' height='50' rx='8' fill='rgba(255,107,107,0.2)' stroke='#ff6b6b' stroke-width='1.5'/><text x='77' y='40' text-anchor='middle' fill='#ff6b6b' font-size='14' font-family='system-ui'>INVESTOR — 50%</text><rect x='10' y='80' width='135' height='50' rx='8' fill='rgba(76,175,80,0.2)' stroke='#4caf50' stroke-width='1.5'/><text x='77' y='110' text-anchor='middle' fill='#4caf50' font-size='14' font-family='system-ui'>LABOR — 50%</text><text x='10' y='160' fill='#8b949e' font-size='11' font-family='system-ui'>Merchant adds 1/3 capital + all labor</text></svg></div></div>"
         },
@@ -51,6 +58,13 @@
           "detail": "The colleganza worked for single voyages. Running a permanent business in a distant city required a fundamentally different deal."
         },
         {
+          "type": "image",
+          "title": "Giovanni di Bicci de' Medici (1360–1429)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Pittore_fiorentino%2C_ritratto_di_giovanni_di_bicci_de%27_medici%2C_1450-1500_ca..JPG",
+          "alt": "Portrait of Giovanni di Bicci de' Medici, founder of the Medici Bank",
+          "caption": "Founder of the Medici Bank in 1397. His innovation: paying branch managers 40% of profits despite contributing only 9% of capital — because talented judgment was the scarce resource."
+        },
+        {
           "type": "html",
           "html_content": "<h3 style='font-size:1.1em;margin-bottom:1em'>The Medici Split: Capital vs. Talent</h3><div style='display:flex;align-items:center;justify-content:center;gap:2em'><svg viewBox='0 0 400 250' style='width:100%;max-width:500px'><text x='200' y='20' text-anchor='middle' fill='#8b949e' font-size='12' font-family='system-ui'>ROME BRANCH, 1397</text><rect x='20' y='40' width='360' height='40' rx='6' fill='rgba(88,166,255,0.15)' stroke='#58a6ff' stroke-width='1'/><text x='200' y='65' text-anchor='middle' fill='#58a6ff' font-size='13' font-family='system-ui'>CAPITAL CONTRIBUTED</text><rect x='20' y='90' width='327' height='35' rx='6' fill='rgba(255,107,107,0.2)' stroke='#ff6b6b' stroke-width='1.5'/><text x='183' y='112' text-anchor='middle' fill='#ff6b6b' font-size='13' font-family='system-ui'>Medici: 5,500 florins (91%)</text><rect x='347' y='90' width='33' height='35' rx='6' fill='rgba(76,175,80,0.2)' stroke='#4caf50' stroke-width='1.5'/><text x='363' y='112' text-anchor='middle' fill='#4caf50' font-size='10' font-family='system-ui'>9%</text><text x='200' y='155' text-anchor='middle' fill='#8b949e' font-size='13' font-family='system-ui'>vs.</text><text x='200' y='175' text-anchor='middle' fill='#58a6ff' font-size='13' font-family='system-ui'>PROFIT SPLIT</text><rect x='20' y='190' width='216' height='35' rx='6' fill='rgba(255,107,107,0.2)' stroke='#ff6b6b' stroke-width='1.5'/><text x='128' y='212' text-anchor='middle' fill='#ff6b6b' font-size='13' font-family='system-ui'>Medici: 60%</text><rect x='236' y='190' width='144' height='35' rx='6' fill='rgba(76,175,80,0.2)' stroke='#4caf50' stroke-width='1.5'/><text x='308' y='212' text-anchor='middle' fill='#4caf50' font-size='13' font-family='system-ui'>Manager: 40%</text><text x='200' y='248' text-anchor='middle' fill='#ffd93d' font-size='11' font-family='system-ui'>Talent's share: 4x its capital contribution</text></svg></div>"
         },
@@ -75,6 +89,13 @@
           "section_label": "Chapter 3 of 8",
           "title": "Guilds — The Invention of Deferred Compensation",
           "subtitle": "Sometimes the most powerful compensation isn't cash today, but access to a higher-earning tier tomorrow."
+        },
+        {
+          "type": "image",
+          "title": "A Medieval Workshop",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Mendel_I_072_v.jpg",
+          "alt": "A locksmith at work in his medieval workshop, from the Mendel Housebook, Nuremberg, 1451",
+          "caption": "A master locksmith in his workshop (Nuremberg, 1451). Apprentices worked for FREE for 7-12 years under masters like this before earning a single coin."
         },
         {
           "type": "html",
@@ -110,6 +131,13 @@
           "detail": "Official salaries were absurdly low — a junior clerk earned £5-10 per year. But the company tolerated massive private trade on the side."
         },
         {
+          "type": "image",
+          "title": "An East India Company Vessel at Sea",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/A_Castro%2C_Lorenzo_-_A_Dutch_East-Indiaman_off_Hoorn_-_Google_Art_Project.jpg",
+          "alt": "Oil painting of a Dutch East-Indiaman merchant vessel at sea by Lorenzo A. Castro",
+          "caption": "Lorenzo A. Castro's painting of an East-Indiaman. These ships carried company goods — and their captains' private trade. The real compensation wasn't the salary."
+        },
+        {
           "type": "example",
           "title": "Robert Clive's Fortune",
           "body": "Robert Clive returned from India in 1760 with a personal fortune of £234,000 — roughly £30-40 million today — almost none of it from his official salary. The EIC was essentially saying: 'We'll pay you nothing officially, but we'll look the other way while you get rich using our infrastructure.'"
@@ -139,13 +167,27 @@
           "subtitle": "The salary was a radical invention — paying for judgment, not output."
         },
         {
+          "type": "image",
+          "title": "Arkwright's Cromford Mill (1771)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Arkright%27s_Mill_-_Cromford_29-04-06.jpg",
+          "alt": "Photograph of Arkwright's Mill at Cromford, Derbyshire — the world's first water-powered cotton spinning mill",
+          "caption": "The world's first water-powered cotton spinning mill. The machine was too large for a home — workers had to come to IT. The factory was born, and with it, time-based wages."
+        },
+        {
           "type": "html",
           "html_content": "<h3 style='font-size:1.1em;margin-bottom:1em'>The Evolution of How We Pay for Work</h3><svg viewBox='0 0 460 200' style='width:100%;max-width:550px;display:block;margin:0 auto'><line x1='40' y1='100' x2='430' y2='100' stroke='#30363d' stroke-width='2'/><circle cx='80' cy='100' r='8' fill='#ff6b6b'/><text x='80' y='80' text-anchor='middle' fill='#ff6b6b' font-size='10' font-weight='600' font-family='system-ui'>Piece Rate</text><text x='80' y='130' text-anchor='middle' fill='#8b949e' font-size='9' font-family='system-ui'>Per yard, per nail</text><text x='80' y='143' text-anchor='middle' fill='#484f58' font-size='8' font-family='system-ui'>Putting-out system</text><circle cx='190' cy='100' r='8' fill='#ffd93d'/><text x='190' y='80' text-anchor='middle' fill='#ffd93d' font-size='10' font-weight='600' font-family='system-ui'>Time Wages</text><text x='190' y='130' text-anchor='middle' fill='#8b949e' font-size='9' font-family='system-ui'>Per hour/day</text><text x='190' y='143' text-anchor='middle' fill='#484f58' font-size='8' font-family='system-ui'>Factories, 1771+</text><circle cx='310' cy='100' r='8' fill='#58a6ff'/><text x='310' y='80' text-anchor='middle' fill='#58a6ff' font-size='10' font-weight='600' font-family='system-ui'>Salary</text><text x='310' y='130' text-anchor='middle' fill='#8b949e' font-size='9' font-family='system-ui'>Fixed annual amount</text><text x='310' y='143' text-anchor='middle' fill='#484f58' font-size='8' font-family='system-ui'>Railroads, 1850s+</text><circle cx='410' cy='100' r='8' fill='#4caf50'/><text x='410' y='80' text-anchor='middle' fill='#4caf50' font-size='10' font-weight='600' font-family='system-ui'>Salary + Bonus</text><text x='410' y='130' text-anchor='middle' fill='#8b949e' font-size='9' font-family='system-ui'>Base + incentive</text><text x='410' y='143' text-anchor='middle' fill='#484f58' font-size='8' font-family='system-ui'>Modern corporations</text></svg>"
         },
         {
+          "type": "image",
+          "title": "The First Organizational Chart (1855)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Organizational_diagram_of_the_New_York_and_Erie_Railroad%2C_1855.jpg",
+          "alt": "Daniel McCallum's organizational chart for the New York and Erie Railroad, 1855 — the first modern org chart",
+          "caption": "Daniel McCallum's org chart for the Erie Railroad — the first in business history. Railroads were too large for one owner to manage, so they invented salaried professional managers and hierarchies."
+        },
+        {
           "type": "narrative",
           "title": "Why Railroads Invented the Salary",
-          "body": "The railroads of the 1840s-1860s were the first businesses too large for a single owner to manage. The Pennsylvania Railroad, the Erie Railroad — these companies needed professional managers across hundreds of miles of track.\\n\\nYou can't pay a railroad superintendent by the piece. Their output is judgment, not widgets. So you pay a fixed amount, trust them to work diligently, and add bonuses for exceptional results. Daniel McCallum of the Erie Railroad created one of the first organizational charts in business history in 1854."
+          "body": "The railroads of the 1840s-1860s were the first businesses too large for a single owner to manage. The Pennsylvania Railroad, the Erie Railroad — these companies needed professional managers across hundreds of miles of track.\\n\\nYou can't pay a railroad superintendent by the piece. Their output is judgment, not widgets. So you pay a fixed amount, trust them to work diligently, and add bonuses for exceptional results."
         },
         {
           "type": "insight",
@@ -208,6 +250,13 @@
           "detail": "Ronald Coase conceived the idea at age 21 during a traveling scholarship to US factories. He won the Nobel Prize in 1991 — largely for this one paper."
         },
         {
+          "type": "image",
+          "title": "Ronald Coase (1910–2013)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Coase_profile_2003.jpg",
+          "alt": "Profile portrait of Ronald Coase, Nobel Prize-winning economist",
+          "caption": "Coase asked the simplest, most profound question in economics: if markets work so well, why do firms exist? His answer — transaction costs — unified 900 years of compensation history."
+        },
+        {
           "type": "narrative",
           "title": "The Answer: Transaction Costs",
           "body": "Using the market is not free. Every time you hire a freelancer, you must find them, negotiate terms, draft a contract, monitor their work, and enforce the agreement if they underperform.\\n\\nA firm exists because for many activities, it is cheaper to organize work through an employment relationship — where a manager directs activities — than through a series of market contracts."
@@ -236,6 +285,13 @@
         {
           "type": "html",
           "html_content": "<h3 style='font-size:1.1em;margin-bottom:0.8em'>Three Constraints That Force the Gap</h3><div style='display:flex;flex-direction:column;gap:0.8em'><div style='display:flex;align-items:start;gap:0.8em'><div style='background:#ff6b6b;color:#0d1117;width:28px;height:28px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:14px;flex-shrink:0'>1</div><div><div style='color:#e6edf3;font-size:0.85em;font-weight:600'>You can't sell and deliver at the same time</div><div style='color:#8b949e;font-size:0.75em;line-height:1.5;margin-top:0.3em'>Every hour finding clients = an hour not billing. The moment someone else handles sales, their comp comes from your revenue.</div></div></div><div style='display:flex;align-items:start;gap:0.8em'><div style='background:#ffd93d;color:#0d1117;width:28px;height:28px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:14px;flex-shrink:0'>2</div><div><div style='color:#e6edf3;font-size:0.85em;font-weight:600'>One person's reputation doesn't scale</div><div style='color:#8b949e;font-size:0.75em;line-height:1.5;margin-top:0.3em'>A firm builds a brand that exists independently of any person. When McKinsey calls, clients pick up for the name. Brands are expensive.</div></div></div><div style='display:flex;align-items:start;gap:0.8em'><div style='background:#4caf50;color:#0d1117;width:28px;height:28px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:14px;flex-shrink:0'>3</div><div><div style='color:#e6edf3;font-size:0.85em;font-weight:600'>Revenue is volatile, but people need to eat every month</div><div style='color:#8b949e;font-size:0.75em;line-height:1.5;margin-top:0.3em'>A firm absorbs variance by pooling revenue. This insurance has a premium: the gap between peak solo earnings and steady firm comp.</div></div></div></div>"
+        },
+        {
+          "type": "image",
+          "title": "Goldman Sachs HQ — 200 West Street",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/GoldmanSachsHeadquarters.JPG",
+          "alt": "Goldman Sachs global headquarters at 200 West Street, Battery Park City, Manhattan",
+          "caption": "Goldman's 46,500 employees generate ~$1.15M in revenue per person. Average comp: ~$368K. The firm keeps 66-70 cents of every dollar to fund the platform. (Goldman Sachs 10-K, 2024)"
         },
         {
           "type": "comparison",
@@ -270,7 +326,7 @@
           "takeaways": [
             "Venice 1072: Capital is scarce, labor gets 25%. The investor who risks loss commands the larger share.",
             "Florence 1397: Talent becomes scarce. The Medici pay managers 40% despite contributing only 9% of capital.",
-            "Guilds: Deferred compensation — years of free labor in exchange for future earning rights. Still alive in medicine, law, banking.",
+            "Guilds: Deferred compensation — years of free labor for future earning rights. Still alive in medicine, law, banking.",
             "East India Co: When you can't watch, you must align incentives. Salary alone fails at distance.",
             "Factories & Railroads: Time-based wages and salaries emerge because judgment can't be paid by the piece.",
             "Modern corporation: The separation of ownership from management creates the entire executive comp industry.",
