@@ -1,0 +1,284 @@
+{
+  "title": "The 900-Year History of Splitting the Money",
+  "subtitle": "From Venetian merchant ships to Goldman Sachs bonus pools — why nobody gets paid what they generate",
+  "sections": [
+    {
+      "title": "The Original Problem",
+      "goalIntuition": "Whichever side of the equation is scarcer commands the larger share.",
+      "slides": [
+        {
+          "type": "section-title",
+          "section_label": "Chapter 1 of 8",
+          "title": "The Original Problem",
+          "subtitle": "Whichever side of the equation is scarcer commands the larger share."
+        },
+        {
+          "type": "constraint",
+          "title": "Venice, 1072 — Two People, One Voyage",
+          "body": "Sevasto Orefice has capital but can't sail. Romano Mairano can sail but has no capital. Neither can do this alone.",
+          "detail": "They write a colleganza — one of the earliest surviving commercial partnership agreements in human history."
+        },
+        {
+          "type": "html",
+          "html_content": "<h3 style='font-size:1.1em;margin-bottom:1em'>The Colleganza: Two Forms</h3><div style='display:flex;gap:1.5em'><div style='flex:1;background:rgba(124,140,245,0.1);padding:1.2em;border-radius:12px;border:1px solid rgba(124,140,245,0.3)'><div style='color:#7c8cf5;font-size:0.7em;text-transform:uppercase;letter-spacing:0.1em;margin-bottom:0.8em'>Form 1: Investor funds everything</div><svg viewBox='0 0 300 180' style='width:100%'><rect x='10' y='10' width='200' height='50' rx='8' fill='rgba(255,107,107,0.2)' stroke='#ff6b6b' stroke-width='1.5'/><text x='110' y='40' text-anchor='middle' fill='#ff6b6b' font-size='14' font-family='system-ui'>INVESTOR — 75%</text><rect x='10' y='80' width='65' height='50' rx='8' fill='rgba(76,175,80,0.2)' stroke='#4caf50' stroke-width='1.5'/><text x='42' y='110' text-anchor='middle' fill='#4caf50' font-size='14' font-family='system-ui'>LABOR — 25%</text><text x='10' y='160' fill='#8b949e' font-size='11' font-family='system-ui'>Investor bears 100% of losses</text></svg></div><div style='flex:1;background:rgba(124,140,245,0.1);padding:1.2em;border-radius:12px;border:1px solid rgba(124,140,245,0.3)'><div style='color:#7c8cf5;font-size:0.7em;text-transform:uppercase;letter-spacing:0.1em;margin-bottom:0.8em'>Form 2: Both contribute capital</div><svg viewBox='0 0 300 180' style='width:100%'><rect x='10' y='10' width='135' height='50' rx='8' fill='rgba(255,107,107,0.2)' stroke='#ff6b6b' stroke-width='1.5'/><text x='77' y='40' text-anchor='middle' fill='#ff6b6b' font-size='14' font-family='system-ui'>INVESTOR — 50%</text><rect x='10' y='80' width='135' height='50' rx='8' fill='rgba(76,175,80,0.2)' stroke='#4caf50' stroke-width='1.5'/><text x='77' y='110' text-anchor='middle' fill='#4caf50' font-size='14' font-family='system-ui'>LABOR — 50%</text><text x='10' y='160' fill='#8b949e' font-size='11' font-family='system-ui'>Merchant adds 1/3 capital + all labor</text></svg></div></div>"
+        },
+        {
+          "type": "insight",
+          "body": "In the purest form — where one side brings ONLY labor — labor was priced at 25% of the total value created. Not 50%. Not 33%. Twenty-five percent.",
+          "implication": "Capital willing to risk destruction was the scarce resource. Whichever side is scarcer commands the larger share — a principle that still governs every compensation negotiation today."
+        },
+        {
+          "type": "quote",
+          "body": "Every compensation structure that followed — Goldman's bonus pools, McKinsey's partnerships, PE carry — is a descendant of this Venetian contract.",
+          "attribution": "The colleganza is the ur-structure of all compensation"
+        }
+      ]
+    },
+    {
+      "title": "The Medici Innovation",
+      "goalIntuition": "When talent becomes scarce, its share of the split must rise — or it walks.",
+      "slides": [
+        {
+          "type": "section-title",
+          "section_label": "Chapter 2 of 8",
+          "title": "The Medici Innovation",
+          "subtitle": "When talent becomes scarce, its share of the split must rise — or it walks."
+        },
+        {
+          "type": "constraint",
+          "title": "Florence, 1397 — You Can't Watch the Manager",
+          "body": "Giovanni di Bicci de' Medici needs someone to run his Rome branch. But Rome is weeks of travel away. How do you pay someone making complex financial decisions — lending to cardinals, negotiating exchange rates — when you can't supervise them?",
+          "detail": "The colleganza worked for single voyages. Running a permanent business in a distant city required a fundamentally different deal."
+        },
+        {
+          "type": "html",
+          "html_content": "<h3 style='font-size:1.1em;margin-bottom:1em'>The Medici Split: Capital vs. Talent</h3><div style='display:flex;align-items:center;justify-content:center;gap:2em'><svg viewBox='0 0 400 250' style='width:100%;max-width:500px'><text x='200' y='20' text-anchor='middle' fill='#8b949e' font-size='12' font-family='system-ui'>ROME BRANCH, 1397</text><rect x='20' y='40' width='360' height='40' rx='6' fill='rgba(88,166,255,0.15)' stroke='#58a6ff' stroke-width='1'/><text x='200' y='65' text-anchor='middle' fill='#58a6ff' font-size='13' font-family='system-ui'>CAPITAL CONTRIBUTED</text><rect x='20' y='90' width='327' height='35' rx='6' fill='rgba(255,107,107,0.2)' stroke='#ff6b6b' stroke-width='1.5'/><text x='183' y='112' text-anchor='middle' fill='#ff6b6b' font-size='13' font-family='system-ui'>Medici: 5,500 florins (91%)</text><rect x='347' y='90' width='33' height='35' rx='6' fill='rgba(76,175,80,0.2)' stroke='#4caf50' stroke-width='1.5'/><text x='363' y='112' text-anchor='middle' fill='#4caf50' font-size='10' font-family='system-ui'>9%</text><text x='200' y='155' text-anchor='middle' fill='#8b949e' font-size='13' font-family='system-ui'>vs.</text><text x='200' y='175' text-anchor='middle' fill='#58a6ff' font-size='13' font-family='system-ui'>PROFIT SPLIT</text><rect x='20' y='190' width='216' height='35' rx='6' fill='rgba(255,107,107,0.2)' stroke='#ff6b6b' stroke-width='1.5'/><text x='128' y='212' text-anchor='middle' fill='#ff6b6b' font-size='13' font-family='system-ui'>Medici: 60%</text><rect x='236' y='190' width='144' height='35' rx='6' fill='rgba(76,175,80,0.2)' stroke='#4caf50' stroke-width='1.5'/><text x='308' y='212' text-anchor='middle' fill='#4caf50' font-size='13' font-family='system-ui'>Manager: 40%</text><text x='200' y='248' text-anchor='middle' fill='#ffd93d' font-size='11' font-family='system-ui'>Talent's share: 4x its capital contribution</text></svg></div>"
+        },
+        {
+          "type": "insight",
+          "body": "When the laborer isn't just carrying goods but making complex decisions every day, the value of judgment is enormous. If you don't pay for it generously, the talented manager leaves.",
+          "implication": "The Medici gave managers NO salary — only profit share. A salaried manager has no reason to be careful with your money. A profit-sharing manager is investing alongside you."
+        },
+        {
+          "type": "narrative",
+          "title": "Structural Brilliance: Containing the Blast Radius",
+          "body": "Each Medici branch was legally separate with limited liability between them. When the London branch collapsed in the 1470s — because the manager made reckless loans to King Edward IV — it didn't destroy the Venice or Florence branches.\\n\\nThe insight: when you give talented people autonomy and profit-sharing, some will make catastrophic mistakes. The solution isn't to remove autonomy (which kills the model). It's to contain the blast radius through structural separation."
+        }
+      ]
+    },
+    {
+      "title": "Guilds — Deferred Compensation",
+      "goalIntuition": "Sometimes the most powerful compensation isn't cash today, but access to a higher-earning tier tomorrow.",
+      "slides": [
+        {
+          "type": "section-title",
+          "section_label": "Chapter 3 of 8",
+          "title": "Guilds — The Invention of Deferred Compensation",
+          "subtitle": "Sometimes the most powerful compensation isn't cash today, but access to a higher-earning tier tomorrow."
+        },
+        {
+          "type": "html",
+          "html_content": "<h3 style='font-size:1.1em;margin-bottom:1em'>The Guild Ladder: A Multi-Year Bet</h3><svg viewBox='0 0 420 280' style='width:100%;max-width:500px;display:block;margin:0 auto'><defs><linearGradient id='g1' x1='0' y1='0' x2='0' y2='1'><stop offset='0%' stop-color='#ffd93d' stop-opacity='0.3'/><stop offset='100%' stop-color='#ffd93d' stop-opacity='0.05'/></linearGradient></defs><polygon points='210,20 380,250 40,250' fill='url(#g1)' stroke='#ffd93d' stroke-width='1.5' opacity='0.4'/><rect x='130' y='40' width='160' height='55' rx='8' fill='rgba(76,175,80,0.15)' stroke='#4caf50' stroke-width='1.5'/><text x='210' y='60' text-anchor='middle' fill='#4caf50' font-size='13' font-weight='600' font-family='system-ui'>MASTER</text><text x='210' y='78' text-anchor='middle' fill='#8b949e' font-size='10' font-family='system-ui'>Own shop, hire others, full guild member</text><rect x='100' y='115' width='220' height='55' rx='8' fill='rgba(88,166,255,0.15)' stroke='#58a6ff' stroke-width='1.5'/><text x='210' y='135' text-anchor='middle' fill='#58a6ff' font-size='13' font-weight='600' font-family='system-ui'>JOURNEYMAN</text><text x='210' y='153' text-anchor='middle' fill='#8b949e' font-size='10' font-family='system-ui'>Daily wage (origin of \"day rate\")</text><rect x='60' y='190' width='300' height='55' rx='8' fill='rgba(255,107,107,0.15)' stroke='#ff6b6b' stroke-width='1.5'/><text x='210' y='210' text-anchor='middle' fill='#ff6b6b' font-size='13' font-weight='600' font-family='system-ui'>APPRENTICE — 7 to 12 YEARS</text><text x='210' y='228' text-anchor='middle' fill='#8b949e' font-size='10' font-family='system-ui'>ZERO wages. Family often paid the master.</text><text x='390' y='145' fill='#484f58' font-size='30' font-family='system-ui'>}</text><text x='405' y='150' fill='#8b949e' font-size='10' font-family='system-ui' text-anchor='start'>Years of</text><text x='405' y='163' fill='#8b949e' font-size='10' font-family='system-ui' text-anchor='start'>free labor</text></svg>"
+        },
+        {
+          "type": "insight",
+          "body": "The guild system was a deferred compensation scheme. You worked for free for nearly a decade, betting that the skills you accumulated would be worth far more than the wages you forfeited.",
+          "implication": "Medical residency, law firm associate tracks, banking analyst programs — the guild masters of the 13th century would recognize them immediately."
+        },
+        {
+          "type": "definition",
+          "term": "Masterpiece",
+          "definition": "A piece of work good enough to prove mastery of a craft — the literal origin of the word. It was your final exam, your proof of competence, your ticket to opening your own shop.",
+          "context": "The word 'journeyman' comes from the French 'journée' (day) — you earned a daily wage. This is literally where the concept of a 'day rate' comes from."
+        }
+      ]
+    },
+    {
+      "title": "The East India Company Problem",
+      "goalIntuition": "When you can't monitor someone, flat salary fails. You must give them a stake in the outcome.",
+      "slides": [
+        {
+          "type": "section-title",
+          "section_label": "Chapter 4 of 8",
+          "title": "What Happens When You Can't Watch",
+          "subtitle": "When you can't monitor someone, flat salary fails. You must give them a stake in the outcome."
+        },
+        {
+          "type": "constraint",
+          "title": "1600 — The Other Side of the Planet",
+          "body": "The East India Company needs employees in India. Messages take months. There is absolutely no way to monitor what they're doing.",
+          "detail": "Official salaries were absurdly low — a junior clerk earned £5-10 per year. But the company tolerated massive private trade on the side."
+        },
+        {
+          "type": "example",
+          "title": "Robert Clive's Fortune",
+          "body": "Robert Clive returned from India in 1760 with a personal fortune of £234,000 — roughly £30-40 million today — almost none of it from his official salary. The EIC was essentially saying: 'We'll pay you nothing officially, but we'll look the other way while you get rich using our infrastructure.'"
+        },
+        {
+          "type": "tradeoff",
+          "title": "EIC vs. VOC — Two Approaches, Same Failure",
+          "optimized": "English EIC: Tolerated private trade as real compensation. Maximum individual incentive.",
+          "sacrificed": "Dutch VOC: Prohibited private trade, paid higher salaries. Attempted corporate control.",
+          "why": "Both failed — private trade was rampant either way. But the VOC made a lasting innovation: the first permanent, transferable shares on a stock exchange (1602). This separated ownership from any particular venture."
+        },
+        {
+          "type": "insight",
+          "body": "The EIC invented the worst version of incentive compensation: tolerating theft instead of designing profit sharing. Every modern bonus structure is an attempt to solve this same problem more elegantly.",
+          "implication": "When you can't watch someone, you must align their financial interests with yours. That's the entire history of compensation in one sentence."
+        }
+      ]
+    },
+    {
+      "title": "Factories and the Birth of Salary",
+      "goalIntuition": "The salary was a radical invention — paying someone a fixed amount regardless of daily output only makes sense when their output is judgment, not widgets.",
+      "slides": [
+        {
+          "type": "section-title",
+          "section_label": "Chapter 5 of 8",
+          "title": "Factories, Railroads, and the Birth of Salary",
+          "subtitle": "The salary was a radical invention — paying for judgment, not output."
+        },
+        {
+          "type": "html",
+          "html_content": "<h3 style='font-size:1.1em;margin-bottom:1em'>The Evolution of How We Pay for Work</h3><svg viewBox='0 0 460 200' style='width:100%;max-width:550px;display:block;margin:0 auto'><line x1='40' y1='100' x2='430' y2='100' stroke='#30363d' stroke-width='2'/><circle cx='80' cy='100' r='8' fill='#ff6b6b'/><text x='80' y='80' text-anchor='middle' fill='#ff6b6b' font-size='10' font-weight='600' font-family='system-ui'>Piece Rate</text><text x='80' y='130' text-anchor='middle' fill='#8b949e' font-size='9' font-family='system-ui'>Per yard, per nail</text><text x='80' y='143' text-anchor='middle' fill='#484f58' font-size='8' font-family='system-ui'>Putting-out system</text><circle cx='190' cy='100' r='8' fill='#ffd93d'/><text x='190' y='80' text-anchor='middle' fill='#ffd93d' font-size='10' font-weight='600' font-family='system-ui'>Time Wages</text><text x='190' y='130' text-anchor='middle' fill='#8b949e' font-size='9' font-family='system-ui'>Per hour/day</text><text x='190' y='143' text-anchor='middle' fill='#484f58' font-size='8' font-family='system-ui'>Factories, 1771+</text><circle cx='310' cy='100' r='8' fill='#58a6ff'/><text x='310' y='80' text-anchor='middle' fill='#58a6ff' font-size='10' font-weight='600' font-family='system-ui'>Salary</text><text x='310' y='130' text-anchor='middle' fill='#8b949e' font-size='9' font-family='system-ui'>Fixed annual amount</text><text x='310' y='143' text-anchor='middle' fill='#484f58' font-size='8' font-family='system-ui'>Railroads, 1850s+</text><circle cx='410' cy='100' r='8' fill='#4caf50'/><text x='410' y='80' text-anchor='middle' fill='#4caf50' font-size='10' font-weight='600' font-family='system-ui'>Salary + Bonus</text><text x='410' y='130' text-anchor='middle' fill='#8b949e' font-size='9' font-family='system-ui'>Base + incentive</text><text x='410' y='143' text-anchor='middle' fill='#484f58' font-size='8' font-family='system-ui'>Modern corporations</text></svg>"
+        },
+        {
+          "type": "narrative",
+          "title": "Why Railroads Invented the Salary",
+          "body": "The railroads of the 1840s-1860s were the first businesses too large for a single owner to manage. The Pennsylvania Railroad, the Erie Railroad — these companies needed professional managers across hundreds of miles of track.\\n\\nYou can't pay a railroad superintendent by the piece. Their output is judgment, not widgets. So you pay a fixed amount, trust them to work diligently, and add bonuses for exceptional results. Daniel McCallum of the Erie Railroad created one of the first organizational charts in business history in 1854."
+        },
+        {
+          "type": "insight",
+          "body": "For most of human history, paying someone a fixed amount regardless of daily output would have seemed bizarre and reckless. The salary only makes sense when the transaction cost of measuring output exceeds the cost of just trusting someone.",
+          "implication": "This is exactly what Ronald Coase would formalize in 1937 — and it's why base salary + bonus became the dominant model for knowledge workers."
+        }
+      ]
+    },
+    {
+      "title": "The Modern Corporation",
+      "goalIntuition": "The entire executive compensation industry exists because of one problem: making employees behave like owners.",
+      "slides": [
+        {
+          "type": "section-title",
+          "section_label": "Chapter 6 of 8",
+          "title": "The Separation Problem",
+          "subtitle": "The entire executive compensation industry exists because of one problem: making employees behave like owners."
+        },
+        {
+          "type": "narrative",
+          "title": "Berle & Means (1932): The Discovery",
+          "body": "Of the 200 largest American corporations in 1929, 44% were 'management-controlled' — no ownership group held enough stock to exercise real control. The managers ran the show with minimal accountability to owners.\\n\\nOnce managers are not owners, you face THE question: how do you pay someone to act in the owners' interest when the owners aren't in the room?"
+        },
+        {
+          "type": "html",
+          "html_content": "<h3 style='font-size:1.1em;margin-bottom:1em'>CEO Pay Ratio Over Time</h3><svg viewBox='0 0 440 240' style='width:100%;max-width:520px;display:block;margin:0 auto'><line x1='60' y1='200' x2='400' y2='200' stroke='#30363d' stroke-width='1.5'/><line x1='60' y1='200' x2='60' y2='30' stroke='#30363d' stroke-width='1.5'/><text x='55' y='200' text-anchor='end' fill='#484f58' font-size='9' font-family='system-ui'>0x</text><text x='55' y='155' text-anchor='end' fill='#484f58' font-size='9' font-family='system-ui'>100x</text><text x='55' y='110' text-anchor='end' fill='#484f58' font-size='9' font-family='system-ui'>200x</text><text x='55' y='65' text-anchor='end' fill='#484f58' font-size='9' font-family='system-ui'>300x</text><text x='55' y='40' text-anchor='end' fill='#484f58' font-size='9' font-family='system-ui'>376x</text><circle cx='100' cy='191' r='6' fill='#58a6ff'/><text x='100' y='215' text-anchor='middle' fill='#8b949e' font-size='9' font-family='system-ui'>1965</text><text x='100' y='185' text-anchor='middle' fill='#58a6ff' font-size='9' font-family='system-ui'>20x</text><circle cx='200' cy='182' r='6' fill='#58a6ff'/><text x='200' y='215' text-anchor='middle' fill='#8b949e' font-size='9' font-family='system-ui'>1978</text><text x='200' y='176' text-anchor='middle' fill='#58a6ff' font-size='9' font-family='system-ui'>30x</text><circle cx='300' cy='105' r='6' fill='#ffd93d'/><text x='300' y='215' text-anchor='middle' fill='#8b949e' font-size='9' font-family='system-ui'>1995</text><text x='300' y='99' text-anchor='middle' fill='#ffd93d' font-size='9' font-family='system-ui'>123x</text><circle cx='370' cy='38' r='8' fill='#ff6b6b'/><text x='370' y='215' text-anchor='middle' fill='#8b949e' font-size='9' font-family='system-ui'>2000</text><text x='370' y='28' text-anchor='middle' fill='#ff6b6b' font-size='10' font-weight='600' font-family='system-ui'>376x</text><polyline points='100,191 200,182 300,105 370,38' fill='none' stroke='#ff6b6b' stroke-width='2' stroke-dasharray='5,3'/><text x='230' y='25' fill='#8b949e' font-size='10' font-family='system-ui'>CEO pay vs. average worker</text></svg><p style='color:#484f58;font-size:0.7em;text-align:center;margin-top:0.5em'>Source: Economic Policy Institute</p>"
+        },
+        {
+          "type": "content",
+          "title": "The Evolution of Executive Comp",
+          "bullets": [
+            "1920s-50s: Salary + modest bonus. Alfred Sloan earned $500K/yr (~$10M today) — mostly cash.",
+            "1950s-60s: Stock options emerge, driven by favorable tax treatment (Revenue Act of 1950)",
+            "1976: Jensen & Meckling publish 'Theory of the Firm' — the intellectual case for equity alignment",
+            "1990s+: Stock options explode. Salary + bonus + options + RSUs becomes the standard package"
+          ],
+          "fragments": true
+        },
+        {
+          "type": "insight",
+          "body": "Every element of modern compensation — salary, bonus, stock options, RSUs, clawbacks — exists because of a problem that wouldn't exist if the owner and the worker were the same person.",
+          "implication": "900 years after the colleganza, we're still refining the answer to the same question: how do you make someone care about your money as much as you do?"
+        }
+      ]
+    },
+    {
+      "title": "Coase's Insight",
+      "goalIntuition": "Firms exist because using the market is not free. Every compensation structure is an attempt to reintroduce market incentives inside the firm.",
+      "slides": [
+        {
+          "type": "section-title",
+          "section_label": "Chapter 7 of 8",
+          "title": "Why Firms Exist At All",
+          "subtitle": "A 27-year-old asked the question nobody else had thought to ask."
+        },
+        {
+          "type": "constraint",
+          "title": "Coase's Question (1937)",
+          "body": "If markets are so efficient at coordinating activity through prices, why do firms exist? Why doesn't everyone just work as independent contractors?",
+          "detail": "Ronald Coase conceived the idea at age 21 during a traveling scholarship to US factories. He won the Nobel Prize in 1991 — largely for this one paper."
+        },
+        {
+          "type": "narrative",
+          "title": "The Answer: Transaction Costs",
+          "body": "Using the market is not free. Every time you hire a freelancer, you must find them, negotiate terms, draft a contract, monitor their work, and enforce the agreement if they underperform.\\n\\nA firm exists because for many activities, it is cheaper to organize work through an employment relationship — where a manager directs activities — than through a series of market contracts."
+        },
+        {
+          "type": "html",
+          "html_content": "<h3 style='font-size:1.1em;margin-bottom:1em'>Coase Explains the Entire History</h3><div style='display:grid;grid-template-columns:1fr 1fr;gap:0.8em'><div style='background:rgba(88,166,255,0.1);padding:0.8em;border-radius:8px;border-left:3px solid #58a6ff'><div style='color:#58a6ff;font-size:0.7em;text-transform:uppercase;margin-bottom:0.4em'>Commenda</div><div style='color:#c9d1d9;font-size:0.75em;line-height:1.4'>Market contract. One voyage, specific terms. Made sense when transactions were infrequent.</div></div><div style='background:rgba(88,166,255,0.1);padding:0.8em;border-radius:8px;border-left:3px solid #58a6ff'><div style='color:#58a6ff;font-size:0.7em;text-transform:uppercase;margin-bottom:0.4em'>East India Co.</div><div style='color:#c9d1d9;font-size:0.75em;line-height:1.4'>Repeated voyages made permanent employees cheaper than re-contracting every time.</div></div><div style='background:rgba(88,166,255,0.1);padding:0.8em;border-radius:8px;border-left:3px solid #58a6ff'><div style='color:#58a6ff;font-size:0.7em;text-transform:uppercase;margin-bottom:0.4em'>Factories</div><div style='color:#c9d1d9;font-size:0.75em;line-height:1.4'>Coordinating home workers cost more than bringing everyone under one roof.</div></div><div style='background:rgba(88,166,255,0.1);padding:0.8em;border-radius:8px;border-left:3px solid #58a6ff'><div style='color:#58a6ff;font-size:0.7em;text-transform:uppercase;margin-bottom:0.4em'>Modern Corp.</div><div style='color:#c9d1d9;font-size:0.75em;line-height:1.4'>You can't contract for judgment. You hire, give authority, and use incentives to align.</div></div></div>"
+        },
+        {
+          "type": "insight",
+          "body": "A freelancer at 33% who joins a platform isn't taking a pay cut. It's a Coasean trade: giving up the freelancer's high take-rate in exchange for the firm's elimination of transaction costs that were silently consuming their time and capping their growth.",
+          "implication": "Every compensation negotiation is really a negotiation about where on the market-to-firm spectrum this role should sit."
+        }
+      ]
+    },
+    {
+      "title": "The Platform Premium",
+      "goalIntuition": "The gap between what someone generates and what they earn is the cost of the platform that makes their productivity possible.",
+      "slides": [
+        {
+          "type": "section-title",
+          "section_label": "Chapter 8 of 8",
+          "title": "The Platform Premium",
+          "subtitle": "The gap between what someone generates and what they earn is the cost of the platform that makes their productivity possible."
+        },
+        {
+          "type": "html",
+          "html_content": "<h3 style='font-size:1.1em;margin-bottom:0.8em'>Three Constraints That Force the Gap</h3><div style='display:flex;flex-direction:column;gap:0.8em'><div style='display:flex;align-items:start;gap:0.8em'><div style='background:#ff6b6b;color:#0d1117;width:28px;height:28px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:14px;flex-shrink:0'>1</div><div><div style='color:#e6edf3;font-size:0.85em;font-weight:600'>You can't sell and deliver at the same time</div><div style='color:#8b949e;font-size:0.75em;line-height:1.5;margin-top:0.3em'>Every hour finding clients = an hour not billing. The moment someone else handles sales, their comp comes from your revenue.</div></div></div><div style='display:flex;align-items:start;gap:0.8em'><div style='background:#ffd93d;color:#0d1117;width:28px;height:28px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:14px;flex-shrink:0'>2</div><div><div style='color:#e6edf3;font-size:0.85em;font-weight:600'>One person's reputation doesn't scale</div><div style='color:#8b949e;font-size:0.75em;line-height:1.5;margin-top:0.3em'>A firm builds a brand that exists independently of any person. When McKinsey calls, clients pick up for the name. Brands are expensive.</div></div></div><div style='display:flex;align-items:start;gap:0.8em'><div style='background:#4caf50;color:#0d1117;width:28px;height:28px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:14px;flex-shrink:0'>3</div><div><div style='color:#e6edf3;font-size:0.85em;font-weight:600'>Revenue is volatile, but people need to eat every month</div><div style='color:#8b949e;font-size:0.75em;line-height:1.5;margin-top:0.3em'>A firm absorbs variance by pooling revenue. This insurance has a premium: the gap between peak solo earnings and steady firm comp.</div></div></div></div>"
+        },
+        {
+          "type": "comparison",
+          "title": "The Comp Ratio Across Industries",
+          "headers": ["Firm Type", "Comp / Revenue", "Source"],
+          "rows": [
+            ["Goldman Sachs", "30-34%", "GS 10-K filings, 2021-2024"],
+            ["McKinsey / Bain / BCG", "60-70% (est.)", "Bloomberg / FT estimates"],
+            ["Private Equity mega-funds", "45-55%", "BX, KKR, APO 10-K filings"],
+            ["Boutique Consulting (5-50 people)", "45-55%", "SPI Research benchmark"],
+            ["Best-in-class professional services", "40-48%", "SPI Research top quartile"]
+          ]
+        },
+        {
+          "type": "html",
+          "html_content": "<h3 style='font-size:1.1em;margin-bottom:0.8em'>The Spectrum: Solo to Corporation</h3><svg viewBox='0 0 460 160' style='width:100%;max-width:550px;display:block;margin:0 auto'><defs><linearGradient id='spec' x1='0' y1='0' x2='1' y2='0'><stop offset='0%' stop-color='#4caf50'/><stop offset='50%' stop-color='#ffd93d'/><stop offset='100%' stop-color='#ff6b6b'/></linearGradient></defs><rect x='30' y='55' width='400' height='12' rx='6' fill='url(#spec)' opacity='0.6'/><text x='30' y='45' fill='#4caf50' font-size='11' font-weight='600' font-family='system-ui'>FREELANCER</text><text x='30' y='90' fill='#8b949e' font-size='9' font-family='system-ui'>Keep 90%+</text><text x='30' y='103' fill='#8b949e' font-size='9' font-family='system-ui'>Bear all risk</text><text x='30' y='116' fill='#8b949e' font-size='9' font-family='system-ui'>No platform</text><text x='430' y='45' text-anchor='end' fill='#ff6b6b' font-size='11' font-weight='600' font-family='system-ui'>SALARIED EMPLOYEE</text><text x='430' y='90' text-anchor='end' fill='#8b949e' font-size='9' font-family='system-ui'>Keep 15-25%</text><text x='430' y='103' text-anchor='end' fill='#8b949e' font-size='9' font-family='system-ui'>Bear zero risk</text><text x='430' y='116' text-anchor='end' fill='#8b949e' font-size='9' font-family='system-ui'>Full platform</text><line x1='130' y1='50' x2='130' y2='75' stroke='#c9a0dc' stroke-width='1.5' stroke-dasharray='3,2'/><text x='130' y='90' text-anchor='middle' fill='#c9a0dc' font-size='9' font-weight='600' font-family='system-ui'>Boutique</text><text x='130' y='103' text-anchor='middle' fill='#c9a0dc' font-size='9' font-family='system-ui'>consulting</text><line x='240' y1='50' x2='240' y2='75' stroke='#58a6ff' stroke-width='1.5' stroke-dasharray='3,2'/><text x='240' y='90' text-anchor='middle' fill='#58a6ff' font-size='9' font-weight='600' font-family='system-ui'>McKinsey</text><text x='240' y='103' text-anchor='middle' fill='#58a6ff' font-size='9' font-family='system-ui'>55-70%</text><line x1='330' y1='50' x2='330' y2='75' stroke='#ffd93d' stroke-width='1.5' stroke-dasharray='3,2'/><text x='330' y='90' text-anchor='middle' fill='#ffd93d' font-size='9' font-weight='600' font-family='system-ui'>Goldman</text><text x='330' y='103' text-anchor='middle' fill='#ffd93d' font-size='9' font-family='system-ui'>30-34%</text></svg>"
+        },
+        {
+          "type": "definition",
+          "term": "The Rule of Thirds",
+          "definition": "A consultant's billing revenue splits roughly into thirds: 1/3 to the consultant's comp, 1/3 to overhead, 1/3 to profit. A consultant should bill at least 3x their total compensation.",
+          "context": "From David Maister's 'Managing the Professional Service Firm' — the foundational text on professional services economics. Also called the '3x billing rule.'"
+        },
+        {
+          "type": "quote",
+          "body": "Compensation is not a reward for effort. It is a price for risk allocation.",
+          "attribution": "The one sentence that governs every comp negotiation"
+        },
+        {
+          "type": "summary",
+          "title": "The 900-Year Pattern",
+          "takeaways": [
+            "Venice 1072: Capital is scarce, labor gets 25%. The investor who risks loss commands the larger share.",
+            "Florence 1397: Talent becomes scarce. The Medici pay managers 40% despite contributing only 9% of capital.",
+            "Guilds: Deferred compensation — years of free labor in exchange for future earning rights. Still alive in medicine, law, banking.",
+            "East India Co: When you can't watch, you must align incentives. Salary alone fails at distance.",
+            "Factories & Railroads: Time-based wages and salaries emerge because judgment can't be paid by the piece.",
+            "Modern corporation: The separation of ownership from management creates the entire executive comp industry.",
+            "Coase: Firms exist because markets are expensive to use. The freelancer-to-employee shift is a transaction cost trade.",
+            "The platform premium: Nobody gets paid what they generate because the platform that makes their productivity possible has a real cost."
+          ]
+        }
+      ]
+    }
+  ]
+}
